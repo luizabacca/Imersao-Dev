@@ -59,7 +59,7 @@ section button:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra mais intensa */
 }
 
-.resultados-pesquisa, ul{
+ul{
     list-style-type: circle; 
 
 }
@@ -71,6 +71,7 @@ section button:hover {
     margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
     padding: 1rem; /* Espaçamento interno */
     border-radius: 0.6rem; /* Borda arredondada */
+    list-style-type: circle; 
 }
 
 /* Estiliza cada item de resultado */
